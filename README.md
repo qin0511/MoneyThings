@@ -116,3 +116,4 @@ Don't push the build/ folder to your deployment server.
 ## Copyright
 - This project is under [MIT license](./LICENSE). 
 - Sample avatars of the demo are provided by [Iconfinder](https://www.iconfinder.com/iconsets/business-avatar-1) and they are under a free license.
+
